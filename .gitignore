@@ -1,0 +1,8 @@
+node_modules
+course
+docs
+.claude
+
+# wrangler files
+.wrangler
+.dev.vars*
