@@ -2,6 +2,7 @@ node_modules
 course
 docs
 .claude
+web/dist
 
 # wrangler files
 .wrangler
