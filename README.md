@@ -9,6 +9,9 @@ A ChatGPT App that brings high-quality, royalty-free photography from [Pexels](h
 
 ---
 
+![Pexels ChatGPT App Demo](docs/Screenshot.png)
+
+---
 
 ## What is This?
 
